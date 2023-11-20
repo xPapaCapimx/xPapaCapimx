@@ -1,7 +1,6 @@
 # Hello there! 👋
 
-I am Bruno Kawakami. 💼 Currently working at [Bayer](https://www.bayer.com/) contributing on the company's Digital Transformation and on Data Management.
-⚡ I have great experience on Google Bigquery and as a developer skilled in Python. I am involved in a lot of company's communities and forums related to data science, hackatons, workshops and also building communities since beginning.
+I am Bruno Kawakami. 💼 Currently working at [Bayer](https://www.bayer.com/) contributing on the company's Digital Transformation and on Data Management. ⚡ I have great experience on Google Bigquery and as a developer skilled in Python. I am involved in a lot of company's communities and forums related to data science, hackatons, workshops and also building communities since beginning.
 
 <img height="350" src = 'https://github.com/xPapaCapimx/xPapaCapimx/blob/f7015f88cd946ec48a61281d302bb8bff8a72fac/images/giphy.gif' alt = 'pip boy' align='right'/>
 
