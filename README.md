@@ -3,11 +3,10 @@
 I am Bruno Kawakami. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Currently working at [Bayer](https://www.bayer.com/) contributing on the company's Digital Transformation and on Data Management.
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> I have great experience on Google Bigquery and as a developer skilled in Python. I am involved in a lot of company's communities and forums related to data science, hackatons, workshops and also building communities since beginning.
 
-<img height="350" src = 'https://github.com/xPapaCapimx/xPapaCapimx/blob/f7015f88cd946ec48a61281d302bb8bff8a72fac/images/giphy.gif' alt = 'pip boy' align='right'/>
+<img height="400" src = 'https://github.com/xPapaCapimx/xPapaCapimx/blob/f7015f88cd946ec48a61281d302bb8bff8a72fac/images/giphy.gif' alt = 'pip boy' align='right'/>
 
 <div>
-  <a href="">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xpapacapimx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=xpapacapimx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speak-No-Evil%20Monkey.png" alt="Speak-No-Evil Monkey" width="25" height="25" /> On one line what is my main purpose?
