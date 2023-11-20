@@ -2,12 +2,11 @@
 
 I am Bruno Kawakami. 💼 Currently working at [Bayer](https://www.bayer.com/) contributing on the company's Digital Transformation and on Data Management. ⚡ I have great experienced on Google Bigquery and as a developer skilled in Python. I am involved in a lot of company's communities and forums related to data science, hackatons, workshops and also building communities since beginning.
 
-
+<img src = 'https://github.com/xPapaCapimx/xPapaCapimx/blob/f7015f88cd946ec48a61281d302bb8bff8a72fac/images/giphy.gif' alt = 'pip boy' align='right'/>
 
 <div>
   <a href="">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=xpapacapimx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=xpapacapimx&layout=compact&theme=dracula&hide_progress=false"/>
 </div>
     
 ### 🙊 On one line what is my main purpose?
