@@ -32,6 +32,7 @@ I am Bruno Kawakami. 💼 Currently working at [Bayer](https://www.bayer.com/) c
   <a href="https://instagram.com/bruno.kawakami" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/xpapacapimx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/bruno-kawakami" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/bruno-kawakami" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://teams.microsoft.com/l/char/0/0?users=bruno.kawakami@bayer.com" target="_blank"><img src="https://img.shields.io/badge/-Teams-464EB8?style=for-the-badge&logo=microsoftteams&logoColor=white" target="_blank"></a> 
   
 </div>
